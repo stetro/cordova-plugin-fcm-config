@@ -1,0 +1,14 @@
+{
+    "name": "cordova-plugin-fcm-config",
+    "version": "1.0.0",
+    "description": "This plugin copies the required fcm configurations in the project folder",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Steffen Tröster",
+    "license": "MIT",
+    "platforms": [
+        "android",
+        "ios"
+    ]
+}
