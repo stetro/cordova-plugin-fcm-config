@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="cordova-plugin-fcm-config"
+    version="1.0.0">
+    
+    <name>cordova-plugin-fcm-config</name>
+    
+    <description>This plugin copies the required fcm configurations in the project folder</description>
+    
+    <author>Steffen Tröster</author>
+    
+    <license>MIT</license>
+
+	<platform name="android">
+		<source-file src="google-services.json" target-dir="./"/>
+	</platform>
+
+	<platform name="ios">
+		<source-file src="GoogleService-Info.plist"/>
+	</platform>
+</plugin>
