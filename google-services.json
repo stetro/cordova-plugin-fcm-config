@@ -1,3 +1,45 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "638347616095",
+    "firebase_url": "https://onet-warriors.firebaseio.com",
+    "project_id": "onet-warriors",
+    "storage_bucket": "onet-warriors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638347616095:android:0443cb554d1ae6a9",
+        "android_client_info": {
+          "package_name": "com.game.onetwarrior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638347616095-k0c7l8b8a8m5srnh0k0b6jo98ffr8a97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBB-tUVyNVS_bKTRieOj8w7J_0ILwS4ig"
+        },
+        {
+          "current_key": "AIzaSyC01KDUzfZZBADicO_qyF13EFxMFTFLMKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
