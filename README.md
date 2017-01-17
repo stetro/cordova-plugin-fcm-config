@@ -1,5 +1,7 @@
 # cordova-plugin-fcm-config
 
+> !! This Plugin is not necessary if [cordova-plugin-fcm](https://github.com/fechanique/cordova-plugin-fcm) > 2.0 is used !!
+
 This plugin copies the required FCM configurations in the project root folders and Xcode project. 
 It is used in combination with the great [cordova-plugin-fcm](https://github.com/fechanique/cordova-plugin-fcm) plugin.
 
